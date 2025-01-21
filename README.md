@@ -20,6 +20,8 @@ git clone --depth=1 https://github.com/SEFAT-777/CRACK
 
 cd CRACK
 
+git pull
+
 python SARKER.py
 ```
  
